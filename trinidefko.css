@@ -330,7 +330,7 @@ margin-right:auto;
 }
 
 @media only screen and (max-width: 959px) {
-  body:before {
+  #intro:before {
   content: "";
   background-image: url("./images/trinidefko/st5.jpg");
   background-size: cover;
