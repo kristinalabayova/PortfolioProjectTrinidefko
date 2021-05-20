@@ -146,7 +146,7 @@ padding: 0 30px;
 
 .box img {
     cursor: pointer;
-    width: 12em;
+    width: 13em;
     background: rgba( 255, 255, 255, 0.15 );
     box-shadow: 0 8px 32px 0 rgba(0, 149, 248, 0.363);
     backdrop-filter: blur( 20.0px );
@@ -250,7 +250,7 @@ ul, .list-unstyled, .mb-4 {
 } 
 
 #intro {
-  background: url("./images/trinidefko/st5.jpg")no-repeat center center fixed;
+  background: url("./images/trinidefko/st6.jpg")no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -305,7 +305,7 @@ max-width:200px;
     }
 
     #intro {
-      background: url("./images/trinidefko/st5.jpg")no-repeat center center fixed;
+      background: url("./images/trinidefko/st6.jpg")no-repeat center center fixed;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
