@@ -58,7 +58,7 @@ margin-top:120px;
   .img-fluid {
     color: rgba(0, 0, 0, 0.877);
     background: rgba( 255, 255, 255, 0.10 );
-box-shadow: 0 8px 32px 0 rgba(0, 149, 248, 0.582);
+box-shadow: 0 8px 32px 0 rgba(0, 149, 248, 0.404);
 backdrop-filter: blur( 4px );
 -webkit-backdrop-filter: blur( 4px );
 border-radius: 10px;
@@ -121,9 +121,7 @@ padding: 0 30px;
     font-size: 15px;
 }
 
-.team-boxed.item img {
-    max-width: 300px;
-}
+
 
 .team-boxed .social {
     font-size: 18px;
@@ -148,12 +146,12 @@ padding: 0 30px;
 
 .box img {
     cursor: pointer;
-    width: 13em;
+    width: 12em;
     background: rgba( 255, 255, 255, 0.15 );
-    box-shadow: 0 8px 32px 0 rgba(0, 149, 248, 0.616);
+    box-shadow: 0 8px 32px 0 rgba(0, 149, 248, 0.363);
     backdrop-filter: blur( 20.0px );
     -webkit-backdrop-filter: blur( 20.0px );
-    border-radius: 10px;
+    border-radius: 05px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 
