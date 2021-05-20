@@ -190,17 +190,7 @@ padding: 0 30px;
             margin-top:85px;
         }
 
-   
-img.zoom {
-    width: 100%;
-    height: 200px;
-    border-radius:5px;
-    object-fit:cover;
-    -webkit-transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
-    -o-transition: all .3s ease-in-out;
-    -ms-transition: all .3s ease-in-out;
-}
+
         
  /* Gallery */
 
@@ -260,6 +250,14 @@ ul, .list-unstyled, .mb-4 {
   margin: auto;
   width:100%;
 } 
+
+#intro {
+  background: url("./images/trinidefko/st5.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;   
+}
 .backgr {
  margin:0 auto;
   margin-top:170px;
@@ -276,7 +274,7 @@ max-width:200px;
 }
 
 .grey-text.my-5.about {
-  padding: 0 40px;
+  padding: 0 20px;
   text-align: left;
 }
 }
@@ -296,7 +294,7 @@ max-width:200px;
      }
 
      .grey-text.my-5.about {
-      padding: 0 40px;
+      padding: 0 30px;
       text-align: left;
     }
 
@@ -307,6 +305,14 @@ max-width:200px;
     #contact-form {
     padding: 0 30px;
     }
+
+    #intro {
+      background: url("./images/trinidefko/st5.jpg")no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;   
+  }
 }
 
 /* Small devices (landscape phones, less than 768px) */
